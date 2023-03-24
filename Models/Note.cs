@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace react_notes.Models
+namespace reactNotes.Models
 {
     public class Note
     {

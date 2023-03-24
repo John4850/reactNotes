@@ -2,9 +2,9 @@ using Microsoft.AspNetCore.ApiAuthorization.IdentityServer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Duende.IdentityServer.EntityFramework.Options;
-using react_notes.Models;
+using reactNotes.Models;
 
-namespace reactnet_tutorial.Data
+namespace reactNotes.Data
 {
   public class MyDBContext : DbContext
   {
